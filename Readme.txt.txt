@@ -1,0 +1,1 @@
+olá,essa é uma sintese básica de teste
